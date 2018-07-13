@@ -1,19 +1,20 @@
 # Processing Projects
-Various projects made in [Processing](https://www.processing.org/).  
-Everything is to varying degrees completely useless.  
-All downloads include a compiled version of the program and the source code.  
-Everything is licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-## Downloads
-[linegraphs.linux32.zip](https://www.dropbox.com/s/bubbahxyv9pbq5g/linegraphs.linux32.zip?dl=1)  
-[linegraphs.linux64.zip](https://www.dropbox.com/s/6vl309ot67xn67p/linegraphs.linux64.zip?dl=1)  
-[linegraphs.linux-armv6hf.zip](https://www.dropbox.com/s/gzbsomjrcyotu2h/linegraphs.linux-armv6hf.zip?dl=1)  
-[linegraphs.macosx.zip](https://www.dropbox.com/s/jsr1oz2byyrbif8/linegraphs.macosx.zip?dl=1)  
-[linegraphs.windows32.zip](https://www.dropbox.com/s/z1jy9t0fyjjmh44/linegraphs.windows32.zip?dl=1)  
-[linegraphs.windows64.zip](https://www.dropbox.com/s/m47ksn9dkf8yc5n/linegraphs.windows64.zip?dl=1)  
+A collection of projects made in [Processing](https://www.processing.org/).  
+Everything is to varying degrees completely useless and/or not finished.
 
-[smoothcolourchange.linux32.zip](https://www.dropbox.com/s/ioh3txf1fndf5er/smoothcolourchange.linux32.zip?dl=1)  
-[smoothcolourchange.linux64.zip](https://www.dropbox.com/s/g1fos009k6wdl7p/smoothcolourchange.linux64.zip?dl=1)  
-[smoothcolourchange.linux-armv6hf.zip](https://www.dropbox.com/s/tpkisiugn2c0ttu/smoothcolourchange.linux-armv6hf.zip?dl=1)  
-[smoothcolourchange.macosx.zip](https://www.dropbox.com/s/2sv3pfxdv4gb038/smoothcolourchange.macosx.zip?dl=1)  
-[smoothcolourchange.windows32.zip](https://www.dropbox.com/s/yucjvjq65864192/smoothcolourchange.windows32.zip?dl=1)  
-[smoothcolourchange.windows64.zip](https://www.dropbox.com/s/p0rbvra5cl9iuld/smoothcolourchange.windows64.zip?dl=1)
+## Projects
+* **Clock** - An analogue clock. All hours are dots except the current one.
+* **Colour Change** - New random colour every second.
+* **Colour Change Cloud** - There's a comment saying "bits of circles or curves forming a cloud on the screen changing in colour from left to right". I think this was a bad attempt at particles.
+* **Colour Lines Circle** - Fills the screen with a random colour by drawing lines in a circular manor. When the screen has been filled a new colour starts filling it.
+* **Counter-Feet** - Based on the game from Septimus Heap. Not finished, barely started.
+* **Cube** - Saves screenshots of a rotating cube. Used to make [this GIF](https://diefonk-wip.tumblr.com/post/151394622083/a-person-thinking-a-cube-but-speaking-a-square-i).
+* **Greyscale Lines** - Fills the screen with lines of varying thickness and shades of grey.
+* **Ladybug** - Fills the screen with a random colour every 20 seconds, and then spends the next 20 seconds drawing dots in a different random colour in random positions.
+* **Line Graphs** - Every minute a new line graph is randomly generated. Press the S key to save the current graph as PNG in the program directory.
+* **Minute Art** - Picks a random palette from a set of palettes every minute, and fills the screen with a random colour from that palette. Then draws random lines with the other colours from that palette for the next minute.
+* **New Sound Colour** - Analyzes audio from the computers input and sets the entire screen to a colour based on the audio.
+* **Second Art** - Fills the screen with as many random shapes with random colours as it can in one second and then starts over.
+* **Smooth Colour Change** - Sets the whole screen to a random colour, and then every second a new random colour is picked and there's a smooth transition for one second.
+* **Sound Colour** - Fades between random colours at the same time as it analyzes audio from the computers input and alters the colours based on the audio.
+* **Sound Light** - Analyzes audio from the computers input and sets the entire screen to a greyscale colour based on the audio.
