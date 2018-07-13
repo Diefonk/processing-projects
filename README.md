@@ -1,8 +1,7 @@
 # Processing Projects
 A collection of projects made in [Processing](https://www.processing.org/).  
-Everything is to varying degrees completely useless and/or not finished.
+Everything is to varying degrees completely useless and/or not finished. All of these were created and last changed in 2016.
 
-## Projects
 * **Clock** - An analogue clock. All hours are dots except the current one.
 * **Colour Change** - New random colour every second.
 * **Colour Change Cloud** - There's a comment saying "bits of circles or curves forming a cloud on the screen changing in colour from left to right". I think this was a bad attempt at particles.
